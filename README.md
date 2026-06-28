@@ -26,7 +26,7 @@ This is an Arduino-based Smart Gas Leak Detection System designed to improve saf
 The gas sensor continuously monitors the air. If the gas level exceeds the threshold, the Arduino activates the buzzer and LED, displays a warning on the LCD, opens the window with the servo, turns OFF the light, and turns ON the exhaust fan.
 
 ## Author
-Sayan বেরা
+Sayan Bera
 
 ## Simulation
 
